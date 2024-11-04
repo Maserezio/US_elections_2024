@@ -1,9 +1,8 @@
-# MLP & Voting Regressor
+# MLP
+<img src="./images/png/MLPRegressor.png" alt="MLPRegressor Prediction" style="width: 95%;"/>
 
-<div style="display: flex; justify-content: space-around;">
-    <img src="./images/png/MLPRegressor.png" alt="MLPRegressor Prediction" style="width: 45%;"/>
-    <img src="./images/png/VotingRegressor.png" alt="VotingRegressor Prediction" style="width: 45%;"/>
-</div>
+# Voting Regressor
+<img src="./images/png/VotingRegressor.png" alt="VotingRegressor Prediction" style="width: 95%;"/>
 
 ### Linear Models
 

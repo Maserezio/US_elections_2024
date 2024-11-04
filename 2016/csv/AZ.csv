@@ -1,0 +1,5 @@
+pollster,start_date,end_date,state,sample_size,respondent_type,REP,DEM,moe,spread,real_spread
+NBC,2016-10-30,2016-11-01,AZ,719,LV,46.0,41.0,3.7,5.0,3.5
+CNN,2016-10-27,2016-11-01,AZ,769,LV,51.0,46.0,3.5,5.0,3.5
+Emerson,2016-10-28,2016-10-31,AZ,700,LV,47.0,43.0,3.6,4.0,3.5
+CBS News,2016-10-26,2016-10-28,AZ,994,LV,44.0,42.0,4.3,2.0,3.5

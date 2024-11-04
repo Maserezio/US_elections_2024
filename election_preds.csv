@@ -1,0 +1,15 @@
+Model,REP,DEM
+LinearRegression,291,247
+Lasso,306,232
+Ridge,291,247
+DecisionTreeRegressor,291,247
+ExtraTreesRegressor,291,247
+RandomForestRegressor,306,232
+MLPRegressor,272,266
+XGBRegressor,291,247
+AdaBoostRegressor,306,232
+GradientBoostingRegressor,291,247
+GaussianNB,297,241
+KNeighborsRegressor,312,226
+SVR,312,226
+VotingRegressor,291,247

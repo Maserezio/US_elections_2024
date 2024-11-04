@@ -1,0 +1,15 @@
+Model,MAE,MSE,RMSE
+LinearRegression,1.037,1.688,1.299
+Lasso,1.233,2.413,1.553
+Ridge,1.037,1.678,1.295
+DecisionTreeRegressor,2.231,8.491,2.914
+ExtraTreesRegressor,1.197,2.306,1.519
+RandomForestRegressor,1.474,3.309,1.819
+MLPRegressor,1.501,3.175,1.782
+XGBRegressor,1.481,3.517,1.875
+AdaBoostRegressor,1.592,3.524,1.877
+GradientBoostingRegressor,1.524,3.263,1.806
+GaussianNB,2.812,11.062,3.326
+KNeighborsRegressor,1.55,3.495,1.869
+SVR,1.846,4.624,2.15
+VotingRegressor,1.203,2.226,1.492

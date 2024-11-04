@@ -1,0 +1,11 @@
+pollster,start_date,end_date,state,sample_size,respondent_type,REP,DEM,moe,spread
+InsiderAdvantage,2024-11-01,2024-11-02,AZ,800,LV,49.0,46.0,3.0,3.0
+NY Times,2024-10-25,2024-11-02,AZ,1025,LV,49.0,45.0,3.25,4.0
+Atlas Intel,2024-11-01,2024-11-02,AZ,967,LV,52.0,46.0,3.0,6.0
+Noble Predictive Insights,2024-10-28,2024-10-30,AZ,775,LV,48.0,47.0,3.5,1.0
+Rasmussen Reports,2024-10-25,2024-10-29,AZ,803,LV,48.0,46.0,3.0,2.0
+Data Orbital,2024-10-26,2024-10-28,AZ,550,LV,50.0,42.0,4.3,8.0
+Trafalgar Group (R),2024-10-24,2024-10-26,AZ,1094,LV,48.0,46.0,2.9,2.0
+Morning Consult,2024-10-20,2024-10-29,AZ,803,LV,48.0,48.0,3.25,0.0
+CNN,2024-10-21,2024-10-26,AZ,781,LV,47.0,48.0,4.4,-1.0
+Marist,2024-10-17,2024-10-22,AZ,1193,LV,50.0,49.0,3.7,1.0
